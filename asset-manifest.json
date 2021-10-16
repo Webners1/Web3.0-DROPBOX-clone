@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Web3.0-DROPBOX-clone/static/css/main.18de8aef.chunk.css",
-    "main.js": "/Web3.0-DROPBOX-clone/static/js/main.41e1bf42.chunk.js",
-    "main.js.map": "/Web3.0-DROPBOX-clone/static/js/main.41e1bf42.chunk.js.map",
-    "runtime-main.js": "/Web3.0-DROPBOX-clone/static/js/runtime-main.d28eb89e.js",
-    "runtime-main.js.map": "/Web3.0-DROPBOX-clone/static/js/runtime-main.d28eb89e.js.map",
-    "static/css/2.a6a636a0.chunk.css": "/Web3.0-DROPBOX-clone/static/css/2.a6a636a0.chunk.css",
-    "static/js/2.3d5fb802.chunk.js": "/Web3.0-DROPBOX-clone/static/js/2.3d5fb802.chunk.js",
-    "static/js/2.3d5fb802.chunk.js.map": "/Web3.0-DROPBOX-clone/static/js/2.3d5fb802.chunk.js.map",
-    "index.html": "/Web3.0-DROPBOX-clone/index.html",
-    "precache-manifest.69b8fb9eca42f54ed7052b46edfe94bc.js": "/Web3.0-DROPBOX-clone/precache-manifest.69b8fb9eca42f54ed7052b46edfe94bc.js",
-    "service-worker.js": "/Web3.0-DROPBOX-clone/service-worker.js",
-    "static/css/2.a6a636a0.chunk.css.map": "/Web3.0-DROPBOX-clone/static/css/2.a6a636a0.chunk.css.map",
-    "static/css/main.18de8aef.chunk.css.map": "/Web3.0-DROPBOX-clone/static/css/main.18de8aef.chunk.css.map",
-    "static/js/2.3d5fb802.chunk.js.LICENSE.txt": "/Web3.0-DROPBOX-clone/static/js/2.3d5fb802.chunk.js.LICENSE.txt",
-    "static/media/box.png": "/Web3.0-DROPBOX-clone/static/media/box.df8b84d5.png"
+    "main.css": "/Web3.0DROPBOXclone/static/css/main.18de8aef.chunk.css",
+    "main.js": "/Web3.0DROPBOXclone/static/js/main.6a908e4e.chunk.js",
+    "main.js.map": "/Web3.0DROPBOXclone/static/js/main.6a908e4e.chunk.js.map",
+    "runtime-main.js": "/Web3.0DROPBOXclone/static/js/runtime-main.5422fe10.js",
+    "runtime-main.js.map": "/Web3.0DROPBOXclone/static/js/runtime-main.5422fe10.js.map",
+    "static/css/2.a6a636a0.chunk.css": "/Web3.0DROPBOXclone/static/css/2.a6a636a0.chunk.css",
+    "static/js/2.89f920b2.chunk.js": "/Web3.0DROPBOXclone/static/js/2.89f920b2.chunk.js",
+    "static/js/2.89f920b2.chunk.js.map": "/Web3.0DROPBOXclone/static/js/2.89f920b2.chunk.js.map",
+    "index.html": "/Web3.0DROPBOXclone/index.html",
+    "precache-manifest.651ea4d5a3c23ea15cd9e311830ade3e.js": "/Web3.0DROPBOXclone/precache-manifest.651ea4d5a3c23ea15cd9e311830ade3e.js",
+    "service-worker.js": "/Web3.0DROPBOXclone/service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "/Web3.0DROPBOXclone/static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.18de8aef.chunk.css.map": "/Web3.0DROPBOXclone/static/css/main.18de8aef.chunk.css.map",
+    "static/js/2.89f920b2.chunk.js.LICENSE.txt": "/Web3.0DROPBOXclone/static/js/2.89f920b2.chunk.js.LICENSE.txt",
+    "static/media/box.png": "/Web3.0DROPBOXclone/static/media/box.df8b84d5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d28eb89e.js",
+    "static/js/runtime-main.5422fe10.js",
     "static/css/2.a6a636a0.chunk.css",
-    "static/js/2.3d5fb802.chunk.js",
+    "static/js/2.89f920b2.chunk.js",
     "static/css/main.18de8aef.chunk.css",
-    "static/js/main.41e1bf42.chunk.js"
+    "static/js/main.6a908e4e.chunk.js"
   ]
 }
