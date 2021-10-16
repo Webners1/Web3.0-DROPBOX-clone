@@ -28,6 +28,7 @@
     "truffle-hdwallet-provider-privkey": "^0.3.0",
     "web3": "^1.3.0"
   },
+  "homepage":"http://Webners1.github.io/Web3.0DROPBOXclone",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -35,6 +36,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
