@@ -1,8 +1,8 @@
 require('babel-register');
 require('babel-polyfill');
 require('dotenv').config();
-const HDWalletProvider = require('truffle-hdwallet-provider-privkey');
-const privateKeys = process.env.PRIVATE_KEYS || ""
+var HDWalletProvider = require("truffle-hdwallet-provider");
+
 
 module.exports = {
   networks: {
@@ -14,8 +14,8 @@ module.exports = {
     ropsten: {
       provider: function() {
         return new HDWalletProvider(
-          privateKeys.split(','), // Array of account private keys
-          `https://ropsten.infura.io/v3/${process.env.INFURA_API_KEY}`// Url to an Ethereum Node
+          process.env.MNEMONICS, // Array of account private keys
+          'https://ropsten.infura.io/v3/969ec7add1f846b39fe907bccb56b721'// Url to an Ethereum Node
         )
       },
       gas: 5000000,
